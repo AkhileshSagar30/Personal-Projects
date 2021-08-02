@@ -9,7 +9,11 @@ Birth Star, Cartoon Character, Ancient Ancestor, Celebrity Crush, Special Abilit
 ### Topics Included 
 Polymorphism, Constructors, Methods, Scanner-function, While Loop, If-else Statements, SwitchCases, Conditional Operators, Objects & Classes.
 
-Here is the output of the Program:
+The program consists of different **classes**: ability,ancestor,celebrity,fortune,personality,star.\
+> ***"Horoscope is the main class.."***
+
+
+### PROGRAM'S OUTPUT:
 
 ![alt text](https://github.com/AkhileshSagar30/Personal-Projects/blob/main/Horoscope%20Java%20Project/Output.png)
 
